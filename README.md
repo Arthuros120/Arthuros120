@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @Arthuros120
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in all domains
+- 🌱 I’m currently learning a Poytech Nantes University.
+- 💞️ I’m looking to collaborate on your project !
+- 📫 How to reach me arthur.hamelin12@gmail.com
 - 🏷 [Hamelin-Arthur, Arks, 1006319, 󵫯]
-
-<!---
-Arthuros120/Arthuros120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
