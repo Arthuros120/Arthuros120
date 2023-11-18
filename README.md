@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthuros120
 - 👀 I’m interested in all domains
-- 🌱 I’m currently learning a Poytech Nantes University.
+- 🌱 I’m currently learning a Polytech Nantes University.
 - 💞️ I’m looking to collaborate on your project !
 - 📫 How to reach me arthur.hamelin12@gmail.com
 - 🏷 [Hamelin-Arthur, Arks, 1006319, 󵫯]
